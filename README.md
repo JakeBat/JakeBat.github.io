@@ -1,6 +1,6 @@
 ## Jake Batchelor's GitHub Portfolio
 
-###_Under Construction_
+### _Under Construction_
 
 #### About me
 
