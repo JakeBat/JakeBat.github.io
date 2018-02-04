@@ -1,7 +1,7 @@
 # Jake Batchelor's ProDevDoc
 [Back to my Gitpage](README.md)
 
-[Rough draft of Resume](JakeBatResume.docx)
+[Rough draft of Resume](Resume.md)
 
 ## My Learning Style
 
