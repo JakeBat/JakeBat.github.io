@@ -1,7 +1,10 @@
 # Jake Batchelor's ProDevDoc
+
+[Linkedin Profile](https://www.linkedin.com/in/jake-batchelor-279b60123/)
+
 [Back to my Gitpage](README.md)
 
-[Rough draft of Resume](Resume.md)
+[Resume](JakeBatResume.pdf)
 
 ## My Learning Style
 
@@ -45,3 +48,10 @@ What - Building programs/apps.
 Hey there, my name is Jake. I love building any kind of app or program
 because I simply love to build new things. I usually use coding languages like Java or HTML to make them.
 Do you have anything you might want built?
+
+# Reflections
+
+I was unable to find myself through google, which makes me realise I need to
+increase my online presences. Perhaps I will try to be more active on my social 
+media accounts and add more detail to them. Hopefully with time i can gro my linkedin 
+profile so it pops up when my name is googled.
