@@ -15,7 +15,9 @@ https://deepdivecoding.com/) looking to start a career in programming.
 ## Projects
 
 ### Check Yourself - A Budget Application
+
 ![Screenshot1](Screenshots/CYScreenshot1.png) ![Screenshot2](Screenshots/CYScreenshot2.png) ![Screenshot3](Screenshots/CYScreenshot3.png)
+
 A personal project built in roughly 4 weeks. Android application built with:
 - Java/Android SDK for main functionality
 - SQLite for database
