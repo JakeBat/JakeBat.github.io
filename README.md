@@ -25,7 +25,7 @@ A personal project built in roughly 4 weeks. Android application built with:
 - Incorporates Multiple Google API's(Maps for Android, Places for Android, and Places for
 web services)
 
-_[App Page](https://jakebat.github.io/check_yourself/)_
+_[App Page](https://jakebat.github.io/check_yourself/)_ -
 _[GitHub Page](https://github.com/JakeBat/check_yourself)_
 
 ### Hey Doc!
@@ -40,5 +40,5 @@ Another Android app with roughly 5-6 weeks of development, it was built using:
 - Java EE, Spring, and Derby for backend server database
 - More to come
 
-_[App Page]()_
+_[App Page]()_ -
 _[GitHub Page](https://github.com/deep-dive-coding-java-cohort-3/HeyDoc)_
