@@ -32,7 +32,8 @@ _[GitHub Page](https://github.com/JakeBat/check_yourself)_
 
 --Screenshots to come--
 
-A project built by myself and [Ryan Lazo](https://www.linkedin.com/in/ryan-lazo-924024158/)
+A project built by myself and [Ryan Lazo](https://www.linkedin.com/in/ryan-lazo-924024158/).
+
 Another Android app with roughly 5-6 weeks of development, it was built using:
 - Java/Android SDK for main functionality
 - SQLite for local database and storage
