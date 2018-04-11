@@ -4,7 +4,7 @@
 [Github Profile](https://github.com/JakeBat) -
 [Resume](JakeBatResumeUpdated.pdf)
 
-Email - jacob_batchelor@outlook.com
+Email - [jacob_batchelor@outlook.com](mailto:jacob_batchelor@outlook.com)
 
 ## About me
 
