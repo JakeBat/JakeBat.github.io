@@ -8,8 +8,8 @@ Email - [jacob_batchelor@outlook.com](mailto:jacob_batchelor@outlook.com)
 
 ## About me
 
-Primarily a Java and Android back-end developer with working knowledge of SQL like languages,
-Javascript. Have experience using SpringBoot, Hibernate, and AWS to build a RESTful API back-end.
+Primarily a Java and Android back-end developer with working knowledge of SQL like languages and
+JavaScript. Have experience using SpringBoot, Hibernate, and AWS to build a RESTful API back-end.
  A recent graduate of [Deep Dive Coding Bootcamp](https://deepdivecoding.com/) and recent got my **Oracle
  Java Developer Certification**. Currently looking to start a long successful career in programming.
 
